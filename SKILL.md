@@ -494,5 +494,5 @@ browser screenshot (delay=3000ms)
 
 **版本**: v1.0.0  
 **创建时间**: 2026-03-08  
-**作者**: AI 助手  
+**作者**: Cody  
 **适用平台**: Linux, macOS, Windows

@@ -290,7 +290,7 @@ python3 scripts/data-extractor.py <snapshot.json>
 
 ## 📞 联系方式
 
-- **作者：** Cody-Avatar-Ai
+- **作者：** Cody
 - **项目主页：** https://github.com/Cody-Avatar-Ai/xiaohongshu-web-automation-skill
 - **问题反馈：** https://github.com/Cody-Avatar-Ai/xiaohongshu-web-automation-skill/issues
 
@@ -304,4 +304,5 @@ python3 scripts/data-extractor.py <snapshot.json>
 
 **版本:** v1.0.0  
 **创建时间:** 2026-03-09  
-**最后更新:** 2026-03-09
+**最后更新:** 2026-03-09  
+**作者:** Cody
